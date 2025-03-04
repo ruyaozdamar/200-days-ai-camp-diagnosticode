@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "1.hafta", "PythonHello\1.hafta.pyproj", "{5EBCE80C-0590-43CA-A23B-23E2DBDF55C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EBCE80C-0590-43CA-A23B-23E2DBDF55C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBCE80C-0590-43CA-A23B-23E2DBDF55C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F43CAA36-77E6-46BB-82FF-613B743512A7}
+	EndGlobalSection
+EndGlobal

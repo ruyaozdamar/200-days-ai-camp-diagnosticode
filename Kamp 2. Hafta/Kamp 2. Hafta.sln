@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Kamp 2. Hafta", "Kamp 2. Hafta\Kamp 2. Hafta.pyproj", "{39A6BCA2-1081-49C9-9111-186CA7561971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39A6BCA2-1081-49C9-9111-186CA7561971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A6BCA2-1081-49C9-9111-186CA7561971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB186B59-EE24-4D7B-B1B4-F84BE4998246}
+	EndGlobalSection
+EndGlobal
